@@ -1,6 +1,6 @@
 ---
 name: update-todo
-description: 既存のMarkdown TODO/状況ファイルを、追加・削除・優先度変更・着手・ブロック・完了などの指示で更新する。口頭報告をタスクボードへ反映したいときに使う。
+description: 既存のMarkdown TODO/状況ファイルを、追加・削除・優先度変更・着手・ブロック・完了などの指示で更新する。口頭報告をタスクボードへ反映したいときに使う。update todo と言われた時に使う
 ---
 
 # update-todo
